@@ -120,7 +120,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: DelanoMarcell/blog-comments # <gh-username>/<repo>
+    repo: DelanoMarcell/blogcomments # <gh-username>/<repo>
     repo_id: "R_kgDOOicHug"
     category: "General" # <category_name>
     category_id: "DIC_kwDOOicHus4Cpo9q"
