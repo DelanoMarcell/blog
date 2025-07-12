@@ -14,9 +14,9 @@ timezone: "Africa/Johannesburg"
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: delano's dev blog # the main title
+title: Delano's dev blog # the main title
 
-tagline: Just me, my thoughts and my code.
+tagline: Just me and my thoughts.
 
 description: >- #used by seo meta and the atom feed
   A blog by Delano Martin focusing on coding tutorials, web development tips, technology trends, and insights into life in the South African tech industry.
@@ -36,7 +36,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Delano Martin
-  email: blog@delanomartin.com # change to your email address
+  email: delanomartin14@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://www.linkedin.com/in/delanomartin # change to your Twitter homepage
@@ -61,8 +61,8 @@ webmaster_verifications:
 analytics:
   google:
     id: G-D27NP30921 # fill in your Google Analytics ID
-  goatcounter:
-    id: # fill in your GoatCounter ID
+  goatcounter: 
+    id: delanodevlog # fill in your GoatCounter ID
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
@@ -76,7 +76,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: # now only supports 'goatcounter'
+  provider: goatcounter # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #
@@ -89,7 +89,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: light # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
