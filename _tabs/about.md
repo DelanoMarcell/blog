@@ -4,4 +4,12 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I'm Delano, and welcome to my blog. I started this blog to write about some of the things that interest me, I think that blogging will reinforce my learning, and also allow me to share some of the things I learn along my dev journey. I am a computer science graduate and software engineer. 
+
+My name is Delano Martin, and I’m a software engineer.
+
+I started this blog as a way to reinforce my learning through writing. It serves as a space to organize my thoughts and document my software dev journey. When I’m not coding or blogging, you’ll probably find me playing video games with friends.
+
+Thanks for visiting — I hope you find something valuable here. Please read a post and let me know your thoughts by leaving a comment.
+
+>"You don’t have to be great to start, but you have to start to be great."
+> ~ Henry Ford
